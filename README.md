@@ -1,2 +1,0 @@
-# sites
-Imagens dos Sites
